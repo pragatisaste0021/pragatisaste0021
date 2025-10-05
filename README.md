@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)]
+![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Pragati saste</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.6ea7910bbd3ea058273d99de4c972c12?o=7&cb=12&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia3.giphy.com%2fmedia%2fRbDKaczqWovIugyJmW%2f200.gif%3fcid%3d790b7611rs7ehiume1k770z04jnkh93rx60t84i3n2wdq4rh%26rid%3d200.gif%26ct%3dg&ehk=UcjYPFMrt0%2faPO5Kpze7pMWv%2fGp%2fKlqxaTswjiSSxi8%3d" />
