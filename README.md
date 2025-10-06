@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pragati.saste21@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/praga/Downloads/Resume__Copy_%20(1).pdf](file:///C:/Users/praga/Downloads/Resume__Copy_%20(1).pdf)
+- 📄 Know about my experiences [file:///C:/Users/praga/Downloads/Resume__Copy_%20(1).pdf](https://github.com/pragatisaste0021/pragatisaste0021/blob/main/Pragati_Saste_Resume.pdf)
 
 - ⚡ Fun fact **Once I debugged a bug at 3 AM and it turned out to be a missing semicolon**
 
